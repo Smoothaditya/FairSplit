@@ -36,5 +36,3 @@ A lightweight Streamlit app for managing group expenses with fair settlements, a
 
 ---
 
-## 📁 Project Structure
-
